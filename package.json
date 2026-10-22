@@ -1,0 +1,19 @@
+{
+  "name": "thu-homework-deadlines",
+  "version": "0.4.0",
+  "private": true,
+  "description": "清华网络学堂课程标题同行显示作业截止时间的 Tampermonkey 用户脚本",
+  "scripts": {
+    "check": "node --check thu-homework-deadlines.user.js",
+    "test": "node tests/run-tests.cjs",
+    "test:layout": "node tests/layout-browser.cjs",
+    "package": "pwsh -NoProfile -File scripts/package.ps1"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CoolLiang1/thu-homework-deadlines.git"
+  }
+}

@@ -1,0 +1,16 @@
+# Local diagnostics, screenshots, browser profiles, runtimes and backups
+/private-diagnostics/
+
+# Installed dependencies and generated results/packages
+node_modules/
+/artifacts/
+/dist/
+*.log
+
+# Local configuration and operating system files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+Desktop.ini

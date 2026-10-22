@@ -1,0 +1,707 @@
+{
+  "kind": "isolated-local-fixture",
+  "reports": [
+    {
+      "kind": "isolated-local-fixture",
+      "viewport": 1422,
+      "fallbackTitle": false,
+      "headingShapes": [
+        "direct-elements",
+        "nested-floats",
+        "text"
+      ],
+      "order": [
+        "courseB",
+        "courseA",
+        "courseYellow",
+        "courseNormal",
+        "courseZero",
+        "courseOld",
+        "courseRecent",
+        "courseUnknown"
+      ],
+      "correctCourse": true,
+      "oneSummary": true,
+      "noNames": true,
+      "noOverlap": true,
+      "allInside": true,
+      "titleInline": true,
+      "noStatusOverlap": true,
+      "cardHeightUnchanged": true,
+      "headingHeightUnchanged": true,
+      "nativeHeadingChildrenInside": true,
+      "nativeStatusUnchanged": true,
+      "nativeLinksPreserved": true,
+      "fallbackSafe": true,
+      "menusUsable": true,
+      "menuChecks": [
+        {
+          "course": "courseB",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseA",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseYellow",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseNormal",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseRecent",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseUnknown",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        }
+      ],
+      "menuDismissal": true,
+      "menuDismissalChecks": {
+        "oneMenuAtATime": true,
+        "outsideCloses": true,
+        "escapeCloses": true
+      },
+      "nativeCounts": [
+        "5",
+        "3",
+        "1",
+        "1",
+        "0",
+        "1",
+        "2",
+        "1"
+      ],
+      "urgencyBadges": [
+        "main-badge red",
+        "main-badge orange",
+        "main-badge yellow",
+        "main-badge normal"
+      ],
+      "zeroAndOldHidden": true,
+      "overdueCounts": [
+        "逾期1项",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "逾期1项",
+        ""
+      ],
+      "sameDeadline": true,
+      "unknownVisible": true,
+      "iframesRemaining": 0,
+      "requestedWidth": 1440,
+      "chromeExit": 0,
+      "nativePageVisits": 7
+    },
+    {
+      "kind": "isolated-local-fixture",
+      "viewport": 1262,
+      "fallbackTitle": false,
+      "headingShapes": [
+        "direct-elements",
+        "nested-floats",
+        "text"
+      ],
+      "order": [
+        "courseB",
+        "courseA",
+        "courseYellow",
+        "courseNormal",
+        "courseZero",
+        "courseOld",
+        "courseRecent",
+        "courseUnknown"
+      ],
+      "correctCourse": true,
+      "oneSummary": true,
+      "noNames": true,
+      "noOverlap": true,
+      "allInside": true,
+      "titleInline": true,
+      "noStatusOverlap": true,
+      "cardHeightUnchanged": true,
+      "headingHeightUnchanged": true,
+      "nativeHeadingChildrenInside": true,
+      "nativeStatusUnchanged": true,
+      "nativeLinksPreserved": true,
+      "fallbackSafe": true,
+      "menusUsable": true,
+      "menuChecks": [
+        {
+          "course": "courseB",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseA",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseYellow",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseNormal",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseRecent",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseUnknown",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        }
+      ],
+      "menuDismissal": true,
+      "menuDismissalChecks": {
+        "oneMenuAtATime": true,
+        "outsideCloses": true,
+        "escapeCloses": true
+      },
+      "nativeCounts": [
+        "5",
+        "3",
+        "1",
+        "1",
+        "0",
+        "1",
+        "2",
+        "1"
+      ],
+      "urgencyBadges": [
+        "main-badge red",
+        "main-badge orange",
+        "main-badge yellow",
+        "main-badge normal"
+      ],
+      "zeroAndOldHidden": true,
+      "overdueCounts": [
+        "逾期1项",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "逾期1项",
+        ""
+      ],
+      "sameDeadline": true,
+      "unknownVisible": true,
+      "iframesRemaining": 0,
+      "requestedWidth": 1280,
+      "chromeExit": 0,
+      "nativePageVisits": 7
+    },
+    {
+      "kind": "isolated-local-fixture",
+      "viewport": 782,
+      "fallbackTitle": false,
+      "headingShapes": [
+        "direct-elements",
+        "nested-floats",
+        "text"
+      ],
+      "order": [
+        "courseB",
+        "courseA",
+        "courseYellow",
+        "courseNormal",
+        "courseZero",
+        "courseOld",
+        "courseRecent",
+        "courseUnknown"
+      ],
+      "correctCourse": true,
+      "oneSummary": true,
+      "noNames": true,
+      "noOverlap": true,
+      "allInside": true,
+      "titleInline": true,
+      "noStatusOverlap": true,
+      "cardHeightUnchanged": true,
+      "headingHeightUnchanged": true,
+      "nativeHeadingChildrenInside": true,
+      "nativeStatusUnchanged": true,
+      "nativeLinksPreserved": true,
+      "fallbackSafe": true,
+      "menusUsable": true,
+      "menuChecks": [
+        {
+          "course": "courseB",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseA",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseYellow",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseNormal",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseRecent",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseUnknown",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        }
+      ],
+      "menuDismissal": true,
+      "menuDismissalChecks": {
+        "oneMenuAtATime": true,
+        "outsideCloses": true,
+        "escapeCloses": true
+      },
+      "nativeCounts": [
+        "5",
+        "3",
+        "1",
+        "1",
+        "0",
+        "1",
+        "2",
+        "1"
+      ],
+      "urgencyBadges": [
+        "main-badge red",
+        "main-badge orange",
+        "main-badge yellow",
+        "main-badge normal"
+      ],
+      "zeroAndOldHidden": true,
+      "overdueCounts": [
+        "逾期1项",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "逾期1项",
+        ""
+      ],
+      "sameDeadline": true,
+      "unknownVisible": true,
+      "iframesRemaining": 0,
+      "requestedWidth": 800,
+      "chromeExit": 0,
+      "nativePageVisits": 7
+    },
+    {
+      "kind": "isolated-local-fixture",
+      "viewport": 622,
+      "fallbackTitle": false,
+      "headingShapes": [
+        "direct-elements",
+        "nested-floats",
+        "text"
+      ],
+      "order": [
+        "courseB",
+        "courseA",
+        "courseYellow",
+        "courseNormal",
+        "courseZero",
+        "courseOld",
+        "courseRecent",
+        "courseUnknown"
+      ],
+      "correctCourse": true,
+      "oneSummary": true,
+      "noNames": true,
+      "noOverlap": true,
+      "allInside": true,
+      "titleInline": true,
+      "noStatusOverlap": true,
+      "cardHeightUnchanged": true,
+      "headingHeightUnchanged": true,
+      "nativeHeadingChildrenInside": true,
+      "nativeStatusUnchanged": true,
+      "nativeLinksPreserved": true,
+      "fallbackSafe": true,
+      "menusUsable": true,
+      "menuChecks": [
+        {
+          "course": "courseB",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseA",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseYellow",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseNormal",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseRecent",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseUnknown",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        }
+      ],
+      "menuDismissal": true,
+      "menuDismissalChecks": {
+        "oneMenuAtATime": true,
+        "outsideCloses": true,
+        "escapeCloses": true
+      },
+      "nativeCounts": [
+        "5",
+        "3",
+        "1",
+        "1",
+        "0",
+        "1",
+        "2",
+        "1"
+      ],
+      "urgencyBadges": [
+        "main-badge red",
+        "main-badge orange",
+        "main-badge yellow",
+        "main-badge normal"
+      ],
+      "zeroAndOldHidden": true,
+      "overdueCounts": [
+        "逾期1项",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "逾期1项",
+        ""
+      ],
+      "sameDeadline": true,
+      "unknownVisible": true,
+      "iframesRemaining": 0,
+      "requestedWidth": 640,
+      "chromeExit": 0,
+      "nativePageVisits": 7
+    },
+    {
+      "kind": "isolated-local-fixture",
+      "viewport": 504,
+      "fallbackTitle": false,
+      "headingShapes": [
+        "direct-elements",
+        "nested-floats",
+        "text"
+      ],
+      "order": [
+        "courseB",
+        "courseA",
+        "courseYellow",
+        "courseNormal",
+        "courseZero",
+        "courseOld",
+        "courseRecent",
+        "courseUnknown"
+      ],
+      "correctCourse": true,
+      "oneSummary": true,
+      "noNames": true,
+      "noOverlap": true,
+      "allInside": true,
+      "titleInline": true,
+      "noStatusOverlap": true,
+      "cardHeightUnchanged": true,
+      "headingHeightUnchanged": true,
+      "nativeHeadingChildrenInside": true,
+      "nativeStatusUnchanged": true,
+      "nativeLinksPreserved": true,
+      "fallbackSafe": true,
+      "menusUsable": true,
+      "menuChecks": [
+        {
+          "course": "courseB",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseA",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseYellow",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseNormal",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseRecent",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseUnknown",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        }
+      ],
+      "menuDismissal": true,
+      "menuDismissalChecks": {
+        "oneMenuAtATime": true,
+        "outsideCloses": true,
+        "escapeCloses": true
+      },
+      "nativeCounts": [
+        "5",
+        "3",
+        "1",
+        "1",
+        "0",
+        "1",
+        "2",
+        "1"
+      ],
+      "urgencyBadges": [
+        "main-badge red",
+        "main-badge orange",
+        "main-badge yellow",
+        "main-badge normal"
+      ],
+      "zeroAndOldHidden": true,
+      "overdueCounts": [
+        "逾期1项",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "逾期1项",
+        ""
+      ],
+      "sameDeadline": true,
+      "unknownVisible": true,
+      "iframesRemaining": 0,
+      "requestedWidth": 512,
+      "chromeExit": 0,
+      "nativePageVisits": 7
+    },
+    {
+      "kind": "isolated-local-fixture",
+      "viewport": 504,
+      "fallbackTitle": true,
+      "headingShapes": [
+        "direct-elements",
+        "nested-floats",
+        "text"
+      ],
+      "order": [
+        "courseB",
+        "courseA",
+        "courseYellow",
+        "courseNormal",
+        "courseZero",
+        "courseOld",
+        "courseRecent",
+        "courseUnknown"
+      ],
+      "correctCourse": true,
+      "oneSummary": true,
+      "noNames": true,
+      "noOverlap": true,
+      "allInside": true,
+      "titleInline": true,
+      "noStatusOverlap": true,
+      "cardHeightUnchanged": true,
+      "headingHeightUnchanged": true,
+      "nativeHeadingChildrenInside": true,
+      "nativeStatusUnchanged": true,
+      "nativeLinksPreserved": true,
+      "fallbackSafe": true,
+      "menusUsable": true,
+      "menuChecks": [
+        {
+          "course": "courseB",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseA",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseYellow",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseNormal",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseRecent",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        },
+        {
+          "course": "courseUnknown",
+          "opened": true,
+          "panelInside": true,
+          "refreshUsable": true,
+          "heightUnchanged": true
+        }
+      ],
+      "menuDismissal": true,
+      "menuDismissalChecks": {
+        "oneMenuAtATime": true,
+        "outsideCloses": true,
+        "escapeCloses": true
+      },
+      "nativeCounts": [
+        "5",
+        "3",
+        "1",
+        "1",
+        "0",
+        "1",
+        "2",
+        "1"
+      ],
+      "urgencyBadges": [
+        "main-badge red",
+        "main-badge orange",
+        "main-badge yellow",
+        "main-badge normal"
+      ],
+      "zeroAndOldHidden": true,
+      "overdueCounts": [
+        "逾期1项",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "逾期1项",
+        ""
+      ],
+      "sameDeadline": true,
+      "unknownVisible": true,
+      "iframesRemaining": 0,
+      "requestedWidth": 512,
+      "chromeExit": 0,
+      "nativePageVisits": 7
+    }
+  ]
+}
