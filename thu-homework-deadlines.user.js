@@ -1,8 +1,13 @@
 // ==UserScript==
-// @name         清华网络学堂：课程内嵌作业 DDL（候选版）
+// @name         清华网络学堂：课程内嵌作业 DDL
 // @namespace    local.thu-homework-deadlines
-// @version      0.4.0
-// @description  课程标题同行显示最近未来未交DDL；紧凑日期标签，超过72小时逾期隐藏。0.4.0标题同行修订。
+// @version      0.4.1
+// @description  课程标题同行显示最近未来未交DDL；紧凑日期标签，超过72小时逾期隐藏。
+// @author       CoolLiang1
+// @homepageURL  https://github.com/CoolLiang1/thu-homework-deadlines
+// @supportURL   https://github.com/CoolLiang1/thu-homework-deadlines/issues
+// @downloadURL  https://raw.githubusercontent.com/CoolLiang1/thu-homework-deadlines/main/thu-homework-deadlines.user.js
+// @updateURL    https://raw.githubusercontent.com/CoolLiang1/thu-homework-deadlines/main/thu-homework-deadlines.user.js
 // @match        https://learn.tsinghua.edu.cn/f/wlxt/index/course/student/
 // @run-at       document-idle
 // @grant        none

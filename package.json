@@ -1,6 +1,6 @@
 {
   "name": "thu-homework-deadlines",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "private": true,
   "description": "清华网络学堂课程标题同行显示作业截止时间的 Tampermonkey 用户脚本",
   "scripts": {

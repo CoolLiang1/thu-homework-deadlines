@@ -34,7 +34,7 @@ $checksumPath = Join-Path $outputDirectory 'SHA256SUMS.txt'
 Set-Content -LiteralPath $checksumPath -Value $checksums -Encoding utf8
 
 Add-Type -AssemblyName System.IO.Compression.FileSystem
-$zipPath = Join-Path $outputDirectory 'thu-homework-deadlines-candidate.zip'
+$zipPath = Join-Path $outputDirectory 'thu-homework-deadlines.zip'
 $zipStream = [System.IO.File]::Open($zipPath, [System.IO.FileMode]::Create)
 $archive = [System.IO.Compression.ZipArchive]::new($zipStream, [System.IO.Compression.ZipArchiveMode]::Create)
 try {
